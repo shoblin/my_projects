@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T00:06:23.183Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="4Lq7w4xNjXeZuyH6HIBs" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-24T00:07:07.909Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="AZ3zsCXexnRV6txjLbHW" version="14.7.0" type="github">
   <diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -39,10 +39,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TFdFxmMKn0Se7x4oM76p-115" value="0..n" style="resizable=0;align=left;verticalAlign=top;labelBackgroundColor=#ffffff;fontSize=10;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="460" y="219.99999999999994" as="geometry" />
+          <mxGeometry x="460" y="189.99999999999994" as="geometry" />
         </mxCell>
         <mxCell id="TFdFxmMKn0Se7x4oM76p-116" value="1" style="resizable=0;align=right;verticalAlign=top;labelBackgroundColor=#ffffff;fontSize=10;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="470" y="129.17999999999995" as="geometry" />
+          <mxGeometry x="480" y="169.99999999999994" as="geometry" />
         </mxCell>
         <mxCell id="TFdFxmMKn0Se7x4oM76p-117" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;Rating&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;id(serial) PK&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;user_id int&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;movie_id int&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;rating int&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" vertex="1" parent="1">
           <mxGeometry x="40" y="210" width="230" height="118.36" as="geometry" />
